@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FireStoreAtividade</string>
+    
+    <string-array name="prioridades_array">
+        <item>Baixa</item>
+        <item>Media</item>
+        <item>Alta</item>
+    </string-array>
+
+    <string-array name="categorias_array">
+        <item>Suporte TI</item>
+        <item>Reclamacao</item>
+        <item>Ordem de compra/servico</item>
+    </string-array>
+</resources>

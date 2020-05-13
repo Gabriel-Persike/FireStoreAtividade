@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1010959007296",
+    "firebase_url": "https://firestoreatividade.firebaseio.com",
+    "project_id": "firestoreatividade",
+    "storage_bucket": "firestoreatividade.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010959007296:android:856922666487dfbec3a9a5",
+        "android_client_info": {
+          "package_name": "com.example.firestoreatividade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010959007296-qs09i9djupvlou42qlhb5ldno6lrbq6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firestoreatividade",
+            "certificate_hash": "d6e2a48bb5c375ec8166ae1b114382f0d62c8bc3"
+          }
+        },
+        {
+          "client_id": "1010959007296-27bdgt84a4vt819avnt7f1p3b0okad31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQneOMKdOmyVW54el-vlAYoNEnQ8XiiQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010959007296-27bdgt84a4vt819avnt7f1p3b0okad31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
